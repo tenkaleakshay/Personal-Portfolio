@@ -37,14 +37,20 @@ class Project extends Component {
             <CardText>Personal Portfolio</CardText>
             <CardActions border>
               <a
-                href="http://google.com"
+                href="https://github.com/tenkaleakshay/Personal-Portfolio"
                 rel="noopener noreferrer"
                 targets="_blank"
               >
                 <Button colored>Github</Button>
               </a>
 
-              <Button colored>Live Demo</Button>
+              <a
+                href="https://akshay-personal-portfolio.herokuapp.com/"
+                rel="noopener noreferrer"
+                targets="_blank"
+              >
+                <Button colored>Live Demo</Button>
+              </a>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
@@ -104,7 +110,13 @@ class Project extends Component {
                 <Button colored>Github</Button>
               </a>
 
-              <Button colored>Live Demo</Button>
+              <a
+                href="https://floating-shore-86550.herokuapp.com/"
+                rel="noopener noreferrer"
+                targets="_blank"
+              >
+                <Button colored>Live Demo</Button>
+              </a>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />

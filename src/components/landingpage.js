@@ -21,21 +21,21 @@ class LandingPage extends Component {
               </p>
               <div className="social-links">
                 <a
-                  href="http://google.com"
+                  href="https://www.linkedin.com/in/akshay-tenkale/"
                   rel="noopener noreferrer"
                   targets="_blank"
                 >
                   <i className="fa fa-linkedin-square" aria-hidden="true" />
                 </a>
                 <a
-                  href="http://google.com"
+                  href="https://github.com/tenkaleakshay"
                   rel="noopener noreferrer"
                   targets="_blank"
                 >
                   <i className="fa fa-github-square" aria-hidden="true" />
                 </a>
                 <a
-                  href="http://google.com"
+                  href="https://stackoverflow.com/users/10432274/akshay-tenkale"
                   rel="noopener noreferrer"
                   targets="_blank"
                 >
